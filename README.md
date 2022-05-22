@@ -1,2 +1,2 @@
 # java
-java denemeleri
+Staj süresince oluşturduğum Java projelerinden biri
